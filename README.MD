@@ -1,4 +1,4 @@
-## 📌 Problema de Negócio
+## 📌 (**PROJETO EM DESENVOLVIMENTO**) Problema de Negócio
 
 Imagine que você foi contratado como **Cientista de Dados (consultor)** para apoiar uma empresa fictícia chamada **NovaShop**, um e-commerce de médio porte especializado em **produtos alimentícios**.
 
